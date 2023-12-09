@@ -1,0 +1,11 @@
+# Installation
+----------------------------------------------------------
+- Download the file
+- Extract the codez_engine_sounds folder 
+- Remove "-main" from file name
+- Drop into to your resources folder
+- Add `ensure codez_engine_sounds` to your server.cfg
+
+!Do not copy,paste or sell this script!
+
+Obsidian_CodeZ
