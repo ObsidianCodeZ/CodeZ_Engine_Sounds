@@ -100,7 +100,7 @@ npcul - Unknown
 p60b40 - Unknown
 s55b30 - Unknown
 
-# STILL WORKING ON THESE
+# STILL NEED TO FIX THESE
 --------------------------------------
 ta122s58 - new m4
 majimagt - Maj
