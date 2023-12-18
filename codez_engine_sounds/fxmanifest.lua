@@ -3,6 +3,7 @@ game 'gta5'
 name "CodeZ_Engine_Sounds"
 author "Obsidian_CodeZ"
 description 'Engine Sounds By Obsidian_CodeZ'
+contact 'https://discord.com/invite/8nQcNAYTju'
 lua54 "yes"
 
 files {
