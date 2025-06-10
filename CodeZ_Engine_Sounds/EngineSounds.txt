@@ -1,0 +1,135 @@
+#SOUND CODEZ AND NAMES
+---------------------------------------
+murciev12 - Lambo Murc
+avesvv12 - Aves V12
+diablov12 - Lambo Diablo V12
+sestov10 - Sestov RS
+perfov10 - V10
+urusv8 - Urus V8
+ferrarif12 - Ferrari F12
+f40v8 - F40 V8
+f50v12 -F50 V12
+laferrarisound - La Ferrari
+488sound - Ferrai 488
+viperv10 - Viper V10 2
+gtaspanov10 - V10 Sound
+apollosv8 - V8 Apollo
+c6v8sound - C63 V8
+mclarenv8 - Mclaren V8
+veyronsound - Bugatti
+aqls7raceswap - V8 
+lambov10 - Lambo V10
+mercedesm113 - Merc V10
+tamustanggt50 - Mustang Gt 5L
+aq21honb16a - Honda B16
+fordvoodoo - Ford Shelby 
+n55b30t0 - Bmw M2
+ta023l539 - Lambo Avent
+tagt3flat6 - Porche 911
+s85b50 - Bmw V10
+rb26dett - Nissan I6
+aq2jzgterace - 2JZ Toyota
+taaud40v8 - Audi 4L V8
+aqm275amg - Merc Amg V12
+ta488f154 - Ferrari F154
+b58b30 - Bmw B58
+npolchar - Dodge Charger V8
+talam52v10 - Lambo 5.2 V10
+ea825 - Vw/Audi V8
+ea888 - Vw/Audi V2 2
+ta4b11 - Evo X
+cammedcharger - Vin Diesel Charger
+ta018ferf140b - Ferrari Enzo
+s65b40 - Bmw S65 V8
+gallardov10 - Lambo Gallardo
+ta006bmws65 - E92
+v6audiea839 - Audi Rs4
+rotary7 - Mazda Mx7
+subaruej20 - Subaru 
+k20a - Honda K20A
+f20c - Honda F20C
+tacumminsb - B Series Truck
+cvpiv8 - Crown Vic V8
+porschema2 - Porche Ma2
+ta022s54 - M3/Z4
+alfa690t - Alpha Romeo V6
+ecoboostv6 - Explorer/Taurus
+m297zonda - Pagani Zonda
+ta103ninjah2r - Ninja Bike
+ta013vq35 - Nissan 350Z
+flatheadv8 - Ford V8
+vwflat4 - VW
+aq14nisvq37vhrt - Nissan Vq Turbo
+aq22honb18c - Honda B18C
+bmws1krreng - BMW S1000RR 2021
+ktm1290r - KTM Superduke
+lfasound - Lexus LFA V10
+rx7bpeng - Mazda RX7 Rotary 
+tayamahar1 - Yamaha Big Bang
+aq29viperv10 - Dodge Viper V10
+aq09mazbpze - Mazda Miata i4
+aq02coyotef150 - Ford F150 V8 
+lg18bmwm4 - m4
+m113k - hellcat
+amg1eng - AMG one
+lamavgineng - lambo New
+audr8tteng - R8
+aq06nhonc30a - Honda C30A
+aqtoy2jzstock - 2JZ Stock
+bgw16 - BMW
+cw2019 - CW 2019
+dodgehemihellcat - Hellcat
+elegyx - Subaru 
+f10m5 - BMW M5
+ftypesound - F Type
+gt3rstun - GTR
+k20c - Honda K20C
+lgcy04murciv12 - Lambo V12 New
+mbnzc63eng - C63 New
+mercedesm155 - Merc 55
+n4g63t - G63
+porsche57v10 - Porsche V10
+r34sound - Nissan R34
+s15sound - s15
+suzukigsxr1k - suzuki Bike
+ta028viper - 2008 Viper
+tascmustanggt50 - Mustang GT50 2
+trumpetzr - trump
+stratumc - Cammed Subaru
+npcul - Unknown
+p60b40 - Unknown
+s55b30 - Unknown
+aq61subfa20 - subaru
+aq66audea855 - audi V10
+aq67merm177 - v8 Sound
+ars6c8avant - avant Turbo
+agerasound - Agera Sound
+dchallengerhellcat - hellcat wind
+kc26golft - golf Turbo
+kc31m3gtr - GTR Turbo
+kc115bmwe46st - BMW Sound
+kc135bm36 - BMW E36
+lgcy00vr6 - Vr6
+m5cracklemod - BMW M5
+superchargerdemonv8 - DemonV8
+s63b44 - S63
+ta176m177 - M1
+audiea855 - audi 1
+audi7a - audi2
+audiwx - audi3
+aq68lam52v10 - lambo 5.2 v10
+bm3g80valvetronic - bmw valvetronic
+kc144kawazx10rsc - kwasaki bike
+ta178amgb - AMG
+aq65subej257 - subaru new
+ta122s58 - new m4
+tjz1eng - 1JZ
+harleyvtwin - harleytwin
+ta008mustang69 - 69 Mustang
+lg68ls3vette - corvette
+lg100rptorv8 - raptorv8
+cummins5924v - turbo Diesel
+aq95bmwb58 - NewBMW
+lg116slsamg - AMG sound
+lg125mnsrybently - Bentley1
+bcontinentalgt - Bentley2
