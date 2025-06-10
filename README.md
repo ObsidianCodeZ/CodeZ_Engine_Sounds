@@ -9,3 +9,4 @@ Installation
 - Ensure the resource in your server.cfg
   
 !DO NOT COPY,PASTE OR SELL THIS SCRIPT!
+!DO NOT RENAME THE RESOURCE!
